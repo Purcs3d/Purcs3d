@@ -1,4 +1,1 @@
-- Hello, I am Purcs3d (same with every platform I use).
-- I'm a student in software engineering specifying in data security.
-- Projects mostly include miscellaneous involving programming I wish to better at. 
-- You can reach me through purcs4d@gmail.com or discord (Purcs3d#7822).
+
