@@ -1,1 +1,1 @@
-Yo, Crypto the aussie!
+Yo! What's up, Crypto the aussie!
